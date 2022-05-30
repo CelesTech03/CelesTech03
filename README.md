@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Celi. <img src="https://tenor.com/view/hello-wave-fox-hi-hand-wave-gif-15185464.gif" width="50" height="50"/></h1>
+<h1 align="center">Hi, I'm Celi! </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
