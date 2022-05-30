@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Celeste.</h1>
-<h3 align="center">A passionate software developer from New York</h3>
 
 ```javascript
 const celi = {
