@@ -10,6 +10,7 @@ const celi = {
   code: [Cpp, Python, Swift, Javascript, Html, Css],
   tools: [MySQL, PostgreSQL, Scikit_learn, Pandas, Seaborn, Git],
   techCommunities: {
+                        member: "Women Who Code",
                         member: "Latinas in Tech",
                         member: "ColorStack",
                         member: "CodePath",
