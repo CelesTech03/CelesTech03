@@ -4,7 +4,7 @@
 const celi = {
   pronouns: "she" | "her",
   code: [Cpp, Python, Swift, Javascript, SQL],
-  tools: [Git, HTML/CSS, Jupyter Notebook, APIs, MySQL/PostgreSQL, GitHub],
+  tools: [Git, Html/Css, Jupyter Notebook, APIs, MySQL/PostgreSQL, GitHub],
   techCommunities: {
                         member: "Women Who Code",
                         member: "Latinas in Tech",
