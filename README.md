@@ -3,7 +3,7 @@
 ```javascript
 const celi = {
   pronouns: "she" | "her",
-  code: [Cpp, Python, Swift, Javascript, SQL],
+  code: [Cpp, Python, Swift, Javascript, Sql],
   tools: [Git, Html/Css, Jupyter Notebook, APIs, MySQL/PostgreSQL, Figma],
   techCommunities: {
                         member: "Women Who Code",
