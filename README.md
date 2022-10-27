@@ -26,7 +26,7 @@ const celi = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celestech03&theme=ayu-mirage&show_icons=true&locale=en" alt="celestech03" /></p>
 
 <h3 align="left">Connect With Me</h3>
-<a href="https://www.linkedin.com/in/celesteure%C3%B1a/">
+<a href="https://www.linkedin.com/in/celesteurena/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
